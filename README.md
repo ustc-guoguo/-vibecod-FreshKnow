@@ -1,1 +1,1 @@
-# -vibecod-FreshKnow
+freshknow-demo
